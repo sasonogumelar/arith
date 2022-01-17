@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	ellipse "test1"
+	ellipse "github.com/sasonogumelar/arith"
 )
 
 func main() {
